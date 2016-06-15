@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "mikado_outline_shadow",
+  "_objFlags": 0,
+  "_rawFiles": [
+    "raw-bitmap-font.fnt",
+    "mikado_outline_shadow.png"
+  ],
+  "texture": {
+    "__uuid__": "2c34a500-79df-4f83-b757-d7fb5dd8c23f"
+  },
+  "fontSize": 36
+}
